@@ -15,3 +15,6 @@ Projekt wymaga do działania poniższych programów i pakietów:
 - PyYAML
 - jinja 2
 - pdfkit
+
+Wersja tylko dla użytkowników Windows z poziomu konsoli.
+W późniejszym czasie będzie dostępna wersja z gui w celu ułatwienia użytkowania.
